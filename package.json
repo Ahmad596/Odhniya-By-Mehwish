@@ -1,0 +1,10 @@
+{
+  "name": "odhniya-panels",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test"
+  },
+  "engines": { "node": ">=22" }
+}
